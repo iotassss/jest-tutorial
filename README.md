@@ -1,3 +1,7 @@
+# メモ
+- 最後のテストがエラーを吐く。要修正
+- テスト名は日本語でやってみる
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
